@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce98c261-2e0b-457f-9e7b-34919807d335" name="Default Changelist" comment="" />
+    <list default="true" id="ce98c261-2e0b-457f-9e7b-34919807d335" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BoundedCost.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Package.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommunityAlgo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GraphData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-658">
+            <state relative-caret-position="-454">
               <caret line="105" column="62" selection-start-line="105" selection-start-column="62" selection-end-line="105" selection-end-column="62" />
               <folding>
                 <element signature="e#14#25#0" expanded="true" />
@@ -64,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GraphData.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -97,6 +111,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -113,12 +130,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -139,6 +157,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/datasets" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -346,15 +365,15 @@
       <workItem from="1569637298812" duration="12000000" />
       <workItem from="1569720211548" duration="11653000" />
       <workItem from="1569807244815" duration="6861000" />
-      <workItem from="1569979967607" duration="941000" />
+      <workItem from="1569979967607" duration="1294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242037000" />
+    <option name="totallyTimeSpent" value="242390000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.17583893" />
@@ -526,16 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GraphData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding>
-            <element signature="e#14#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IC.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -548,11 +557,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-658">
+        <state relative-caret-position="-454">
           <caret line="105" column="62" selection-start-line="105" selection-start-column="62" selection-end-line="105" selection-end-column="62" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
             <element signature="e#2135#2162#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#14#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
