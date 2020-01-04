@@ -317,7 +317,9 @@ def func2(graph, act_prob, values, cost, bound_cost, fixed_cost):
     print("cost_count ratio: ", round(cost_count/counts, 3),
           "influ_count ratio: ", round(influ_count/counts, 3),
           "gain_count ratio: ", round(gain_count/counts, 3))
-    return seeds_set
+
+    # return seeds_set
+    return {}.fromkeys(list(seeds_set), 1)
 
 
 def update_un_act_prob(graph, new_seeds, act_prob, un_act_prob):

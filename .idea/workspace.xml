@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce98c261-2e0b-457f-9e7b-34919807d335" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BoundedCost.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Package.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommunityAlgo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IC.py" beforeDir="false" afterPath="$PROJECT_DIR$/IC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,64 +19,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-454">
-              <caret line="105" column="62" selection-start-line="105" selection-start-column="62" selection-end-line="105" selection-end-column="62" />
+            <state relative-caret-position="131">
+              <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
               <folding>
                 <element signature="e#14#25#0" expanded="true" />
-                <element signature="e#2135#2162#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms.py">
+        <entry file="file://$PROJECT_DIR$/drawbar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="266" column="14" selection-start-line="266" selection-start-column="14" selection-end-line="266" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1400">
-              <caret line="255" column="18" lean-forward="true" selection-start-line="255" selection-start-column="18" selection-end-line="255" selection-end-column="18" />
+            <state relative-caret-position="850">
+              <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
               <folding>
-                <element signature="e#14#25#0" expanded="true" />
-                <element signature="e#83#924#0" />
-                <element signature="e#1088#1848#0" />
-                <element signature="e#1916#2914#0" />
-                <element signature="e#2978#5457#0" />
-                <element signature="e#3782#3803#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CommunityAlgo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#14#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GraphData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-              <folding>
-                <element signature="e#14#23#0" expanded="true" />
+                <element signature="e#14#45#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,10 +46,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IC.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+            <state relative-caret-position="85">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="17" />
               <folding>
                 <element signature="e#14#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4794">
+              <caret line="391" column="23" selection-start-line="391" selection-start-column="23" selection-end-line="391" selection-end-column="23" />
+              <folding>
+                <element signature="e#14#25#0" expanded="true" />
+                <element signature="e#7332#9109#0" />
+                <element signature="e#9187#10826#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drawscatter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <element signature="e#15#46#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,19 +101,22 @@
         <option value="$PROJECT_DIR$/CommunityAlgo.py" />
         <option value="$PROJECT_DIR$/baidu.py" />
         <option value="$PROJECT_DIR$/datasets/soc-Epinions1.txt" />
-        <option value="$PROJECT_DIR$/IC.py" />
-        <option value="$PROJECT_DIR$/Dynamic.py" />
-        <option value="$PROJECT_DIR$/Algorithms.py" />
         <option value="$PROJECT_DIR$/GraphData.py" />
+        <option value="$PROJECT_DIR$/MultiRound.py" />
+        <option value="$PROJECT_DIR$/Dynamic.py" />
+        <option value="$PROJECT_DIR$/IC.py" />
+        <option value="$PROJECT_DIR$/drawbar.py" />
+        <option value="$PROJECT_DIR$/drawscatter.py" />
+        <option value="$PROJECT_DIR$/Algorithms.py" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="125" />
+    <option name="width" value="1440" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -147,8 +129,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="BoundedCost" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BoundedCost" type="462c0819:PsiDirectoryNode" />
+              <item name="NewIC_BoundedCost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewIC_BoundedCost" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,7 +141,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/datasets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -171,8 +153,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\influence_project\BoundedCost\datasets" />
       <recent name="E:\influence_project\BoundedCost" />
+      <recent name="E:\influence_project\BoundedCost\datasets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -188,28 +170,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.main">
-    <configuration name="CommunityAlgo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="BoundedCost" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CommunityAlgo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Dynamic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BoundedCost" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,28 +186,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="GraphData" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="BoundedCost" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GraphData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -276,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="baidu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="drawbar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BoundedCost" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,7 +227,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/drawbar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drawscatter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BoundedCost" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/drawscatter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,13 +280,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for Algorithms.test_algo" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="BoundedCost" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Algorithms.test_algo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.drawscatter" />
+        <item itemvalue="Python.drawbar" />
+        <item itemvalue="Python tests.pytest for Algorithms.test_algo" />
         <item itemvalue="Python.Dynamic" />
-        <item itemvalue="Python.GraphData" />
-        <item itemvalue="Python.baidu" />
-        <item itemvalue="Python.CommunityAlgo" />
       </list>
     </recent_temporary>
   </component>
@@ -365,35 +341,89 @@
       <workItem from="1569637298812" duration="12000000" />
       <workItem from="1569720211548" duration="11653000" />
       <workItem from="1569807244815" duration="6861000" />
-      <workItem from="1569979967607" duration="1294000" />
+      <workItem from="1569979967607" duration="1626000" />
+      <workItem from="1571213717392" duration="603000" />
+      <workItem from="1571557101402" duration="3605000" />
+      <workItem from="1571621921577" duration="818000" />
+      <workItem from="1571707613094" duration="8179000" />
+      <workItem from="1571747848946" duration="2718000" />
+      <workItem from="1571829002731" duration="1735000" />
+      <workItem from="1572404524652" duration="1056000" />
+      <workItem from="1572417673197" duration="135000" />
+      <workItem from="1572417894332" duration="4669000" />
+      <workItem from="1572486621630" duration="2398000" />
+      <workItem from="1573090533392" duration="599000" />
+      <workItem from="1573178022810" duration="2315000" />
+      <workItem from="1573290334051" duration="902000" />
+      <workItem from="1573351252635" duration="6732000" />
+      <workItem from="1573437991736" duration="13582000" />
+      <workItem from="1573558388668" duration="4916000" />
+      <workItem from="1573610839546" duration="11736000" />
+      <workItem from="1573695115658" duration="21262000" />
+      <workItem from="1573959432603" duration="3987000" />
+      <workItem from="1574041612420" duration="1323000" />
+      <workItem from="1574233609224" duration="2119000" />
+      <workItem from="1574319754477" duration="614000" />
+      <workItem from="1574564959278" duration="1395000" />
+      <workItem from="1574582083193" duration="2426000" />
+      <workItem from="1574664344914" duration="2634000" />
+      <workItem from="1575894465104" duration="1382000" />
+      <workItem from="1576065996423" duration="7902000" />
+      <workItem from="1576116100840" duration="2715000" />
+      <workItem from="1576138010420" duration="1771000" />
+      <workItem from="1576150234985" duration="2813000" />
+      <workItem from="1576219192212" duration="6009000" />
+      <workItem from="1576287106089" duration="1732000" />
+      <workItem from="1576465910278" duration="623000" />
+      <workItem from="1576495131752" duration="608000" />
+      <workItem from="1576550757286" duration="2401000" />
+      <workItem from="1576669334273" duration="1567000" />
+      <workItem from="1577670039890" duration="973000" />
+      <workItem from="1578105260957" duration="3168000" />
+      <workItem from="1578120031557" duration="1733000" />
+      <workItem from="1578142279329" duration="2677000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_Algorithms_test_algo - 2019.11.11 at 10h 35m 27s.xml">
+      <configuration name="pytest for Algorithms.test_algo" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242390000" />
+    <option name="totallyTimeSpent" value="383254000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.17583893" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.13154362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Alibaba Cloud Explorer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5010571" side_tool="true" weight="0.17181209" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32621083" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35185185" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.16060606" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -406,9 +436,11 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NewIC_BoundedCost$pytest_for_Algorithms_test_algo.coverage" NAME="pytest for Algorithms.test_algo Coverage Results" MODIFIED="1573439725988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BoundedCost$01Package.coverage" NAME="01Package Coverage Results" MODIFIED="1564910738448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewIC_BoundedCost$main.coverage" NAME="main Coverage Results" MODIFIED="1578150174885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BoundedCost$Dynamic.coverage" NAME="Dynamic Coverage Results" MODIFIED="1569656673034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BoundedCost$main.coverage" NAME="main Coverage Results" MODIFIED="1569980225447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BoundedCost$main.coverage" NAME="main Coverage Results" MODIFIED="1571830108882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/datasets/CollegeMsg.csv" />
@@ -417,22 +449,9 @@
     <entry file="file://E:/Influence Maxization/Dataset/DBLP.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/DBLP.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/facebook.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/Anaconda3/Lib/copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="140" selection-start-line="140" selection-end-line="140" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/phy.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/DBLP.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/facebook.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/phy.txt" />
     <entry file="file://D:/Anaconda3/Lib/site-packages/networkx/classes/digraph.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -449,63 +468,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/datasets/Vote.txt" />
     <entry file="file://$PROJECT_DIR$/baidu.py" />
-    <entry file="file://$PROJECT_DIR$/datasets/math.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/CollegeMsg.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/math.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/CollegeMsg.txt" />
     <entry file="file://$PROJECT_DIR$/datasets/Amazon.txt" />
-    <entry file="file://$PROJECT_DIR$/datasets/email-Eu.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/soc-Epinions1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/wiki-vote.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/ca-hepth.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/ca-hepph.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/enron.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/gnutella04.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Package.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="856">
-          <caret line="91" column="5" selection-start-line="91" selection-end-line="93" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/grqc.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/condmat.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/gnutella09.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/slashdot081106.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/citation-hepph.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/citation-hepth.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/email-Eu.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/soc-Epinions1.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/wiki-vote.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/ca-hepth.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/ca-hepph.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/enron.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/gnutella04.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/grqc.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/condmat.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/gnutella09.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/slashdot081106.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/citation-hepph.txt" />
+    <entry file="file://$PROJECT_DIR$/datasets/citation-hepth.txt" />
     <entry file="file://D:/Anaconda3/Lib/random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -513,17 +491,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms.py">
+    <entry file="file://$PROJECT_DIR$/out/0.03-0.6-SuperUser.png" />
+    <entry file="file://$PROJECT_DIR$/out/condmat.png" />
+    <entry file="file://D:/Anaconda3/Lib/copy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="266" column="14" selection-start-line="266" selection-start-column="14" selection-end-line="266" selection-end-column="14" />
+        <state relative-caret-position="148">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-2036615904/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#14#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommunityAlgo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#14#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Package.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="91" column="5" selection-start-line="91" selection-end-line="93" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-2036615904/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="4811" column="8" selection-start-line="4811" selection-start-column="8" selection-end-line="4811" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiRound.py" />
+    <entry file="file://$PROJECT_DIR$/out/grqc.png" />
     <entry file="file://$PROJECT_DIR$/Dynamic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1400">
-          <caret line="255" column="18" lean-forward="true" selection-start-line="255" selection-start-column="18" selection-end-line="255" selection-end-column="18" />
+        <state relative-caret-position="2805">
+          <caret line="321" column="41" selection-start-line="321" selection-start-column="41" selection-end-line="321" selection-end-column="41" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
             <element signature="e#83#924#0" />
@@ -535,43 +558,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CommunityAlgo.py">
+    <entry file="file://$PROJECT_DIR$/out/grqc.txt.png" />
+    <entry file="file://$PROJECT_DIR$/out/grqc_CV.png" />
+    <entry file="file://$PROJECT_DIR$/out/gnutella04_CV.png" />
+    <entry file="file://$PROJECT_DIR$/out/konect-arenas_CV.png" />
+    <entry file="file://$PROJECT_DIR$/out/ca-hepth_CV.png" />
+    <entry file="file://$PROJECT_DIR$/results.csv" />
+    <entry file="file://$PROJECT_DIR$/drawbar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="850">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
           <folding>
-            <element signature="e#14#30#0" expanded="true" />
+            <element signature="e#14#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IC.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        <state relative-caret-position="85">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="17" />
           <folding>
             <element signature="e#14#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-454">
-          <caret line="105" column="62" selection-start-line="105" selection-start-column="62" selection-end-line="105" selection-end-column="62" />
+        <state relative-caret-position="4794">
+          <caret line="391" column="23" selection-start-line="391" selection-start-column="23" selection-end-line="391" selection-end-column="23" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
-            <element signature="e#2135#2162#0" />
+            <element signature="e#7332#9109#0" />
+            <element signature="e#9187#10826#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GraphData.py">
+    <entry file="file://$PROJECT_DIR$/drawscatter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        <state relative-caret-position="204">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="35" />
           <folding>
-            <element signature="e#14#23#0" expanded="true" />
+            <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gnutella04.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding>
+            <element signature="e#14#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
